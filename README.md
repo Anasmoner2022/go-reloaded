@@ -30,5 +30,4 @@ It serves as a practical exercise in file handling, string manipulation, and cle
 
 ```bash
 go run . <input_file> <output_file>
-go run . <input_file> <output_file>
 
